@@ -5,7 +5,7 @@
 ## My main stack:
 
 <table>
-  <tbody>
+  <tbody color="white"  style="background-color:white">
     <tr valign="top">     
       <td width="20%" align="center">
         <span>𝗖#</span><br><br><br>
